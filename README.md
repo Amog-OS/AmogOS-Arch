@@ -1,4 +1,5 @@
 # AmogOS-Arco
 Arco Linux edition of AmogOS
-# Discord server
-https://discord.gg/ZEgVgEzSxz idk join if you want to :)
+# Discord servers
+https://discord.gg/ZEgVgEzSxz <- arco ver support
+https://discord.gg/WcPRRezhZV <- debian ver support server
