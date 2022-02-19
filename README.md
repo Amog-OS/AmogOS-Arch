@@ -1,8 +1,8 @@
-# AmogOS-Arco
-Arco Linux edition of AmogOS
+# AmogOS-Arch
+Arch Linux edition of AmogOS
 
 # Discord servers
-https://discord.gg/ZEgVgEzSxz <- Arco version support  
+https://discord.gg/ZEgVgEzSxz <- Arch version support  
 https://discord.gg/WcPRRezhZV <- Main Debian version support
 
 # Differences
