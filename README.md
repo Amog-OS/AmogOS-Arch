@@ -3,7 +3,7 @@ Arch Linux edition of AmogOS
 
 # Discord servers
 https://discord.gg/ZEgVgEzSxz <- Arch version support  
-https://discord.gg/WcPRRezhZV <- Main Debian version support
+https://discord.gg/WcPRRezhZV <- Main Debian version support (you prob wont recive
 
 # Differences
 This version is based on Archlinux, so you can use all of the latest packages like  python 3.10.
@@ -23,3 +23,5 @@ sudo pacman -S archiso
 ```
 
 and then you cd into the install scripts folder and choose one of the install scripts (one clears cache, uses more internet and the other doesnt)
+# iso size
+currently, the ISO file is 1.9 GB, i will prob compress these into .xz files or tar.gz files
