@@ -10,7 +10,7 @@ This version is based on Arcolinux which is arch linux with some special feature
 
 it includes yay aur helper by default
 
-it actually installs on baremetal since it's based on a BYOI (Build Your Own Iso) version of arco XFCE.
+it actually installs on baremetal since it's based on a ACLI (arch Linux calamares installer) and the default DE is XFCE4.
 
 uses XFCE4 (preconfigured.)
 
