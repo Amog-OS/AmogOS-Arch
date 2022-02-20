@@ -1,27 +1,27 @@
 # AmogOS-Arch
 Arch Linux edition of AmogOS
 
-# Discord servers
+## Discord Servers
 https://discord.gg/ZEgVgEzSxz <- Arch version support  
-https://discord.gg/WcPRRezhZV <- Main Debian version support (you prob wont receive support on the arch version)
+https://discord.gg/WcPRRezhZV <- Main Debian version support (you probably wont receive support on the arch version)
 
-# Differences
-This version is based on Archlinux, so you can use all of the latest packages like  python 3.10.
+## Differences
+This version is based on Arch Linux for a rolling distro experience, so that you can use all of the latest packages like python 3.10 without using unstable repos.
 
-it includes yay aur helper by default
+### Features
 
-it actually installs on baremetal since it's based on a ACLI (arch Linux calamares installer) and the default DE is XFCE4.
+- Includes `yay` AUR helper by default
+- Can actually install on bare metal since it uses ACLI (Arch Linux calamares installer).
+- Comes with XFCE4 by default
+- Has tools to easily install new window managers and desktop environments if you hate XFCE.
 
-uses XFCE4 (preconfigured.)
-
-has tools to easily install window managers and desktop environments if you hate XFCE.
-
-# Build requirements
-You need to be on any arch based distro (i've tested this on ArcoLinux) and you need Archiso installed
+## Build Requirements
+You need to be on any Arch-based distro (only tested on ArcoLinux so far) and you need `archiso` installed with
 ```
 sudo pacman -S archiso
 ```
 
-and then you cd into the install scripts folder and choose one of the install scripts (one clears cache, uses more internet and the other doesnt)
-# iso size
-currently, the ISO file is 1.9 GB, i will prob compress these into .xz files or tar.gz files
+Then you can cd into the install scripts folder and choose one of the install scripts (one clears cache & uses more internet and the other doesnt)
+
+## ISO Size
+Currently, the raw ISO file sits at 1.9 GB, but will be compressed down into .xz
