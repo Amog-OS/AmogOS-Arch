@@ -10,7 +10,7 @@ This version is based on Arch Linux for a rolling distro experience, so that you
 
 ### Features
 
-- Includes `yay` AUR helper by default
+- Includes `Chaotic-AUR` by default (you can install a helper like `yay` or `paru`)
 - Can actually install on bare metal since it uses ACLI (Arch Linux calamares installer).
 - Comes with XFCE4 by default
 - Has tools to easily install new window managers and desktop environments if you hate XFCE.
