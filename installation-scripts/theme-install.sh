@@ -4,5 +4,5 @@ echo $FILEPATH
 mkdir $FILEPATH/archiso/airootfs/ect/skel/.local/
 mkdir $FILEPATH/archiso/airootfs/ect/skel/.local/share/
 mkdir $FILEPATH/archiso/airootfs/ect/skel/.local/share/themes/
-cd ~/amogOS-Arch/archiso/airootfs/ect/skel/.local/share/themes/
+cd $FILEPATH/archiso/airootfs/ect/skel/.local/share/themes/
 git clone https://github.com/hacknorris-aka-penguin/amogos-arch-theme.git
