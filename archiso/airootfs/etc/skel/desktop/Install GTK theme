@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+mkdir ~/.local/share/themes
+cd ~/.local/share/themes
+git clone https://github.com/hacknorris-aka-penguin/amogos-arch-theme.git
