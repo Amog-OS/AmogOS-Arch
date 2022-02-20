@@ -1,0 +1,10 @@
+NAME=AmogOS-arch
+ID=AmogOS-Arch
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="0;36"
+HOME_URL="https://github.com/Amog-OS/AmogOS-Arch"
+BUG_REPORT_URL="https://github.com/Amog-OS/AmogOS-Arch/issues"
+LOGO=AmogOS
+IMAGE_ID=AmogOS
+IMAGE_VERSION=v22.01.10
